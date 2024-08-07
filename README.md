@@ -168,3 +168,5 @@ Now inside the vi editor and enter,
 Note: Only use tab not spaces!
 
 Now, reboot the system again.
+
+Congrats now your Eagle Baord is good as new :D
