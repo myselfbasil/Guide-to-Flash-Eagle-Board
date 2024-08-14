@@ -1,5 +1,5 @@
 # Guide to Flash Eagle Board :)
-#### Made with 🫶🏻 by Basil
+#### Made with  🫶🏻  by Basil
 
 ## 1. Steps to flash Jetson Linux 32.7.5 (latest) (Jetpack 4.6.5 DP) on EagleBoard EMMC:
 
