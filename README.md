@@ -1,14 +1,3 @@
-<div align="center">
-  <p>
-    <a align="center" href="" target="_blank">
-      <img
-        width="850"
-        src="https://github.com/myselfbasil/Guide-to-Flash-Eagle-Board/blob/b2d1631c7da3929ebf52d0c46a6da406e4057829/assets/header_img.jpg"
-      >
-    </a>
-  </p>
-</div>
-
 # Guide to Flash Eagle Board :)
 #### Made with 🫶🏻 by Basil
 
