@@ -7,7 +7,6 @@
       >
     </a>
   </p>
-  <br>
 </div>
 
 # Guide to Flash Eagle Board :)
