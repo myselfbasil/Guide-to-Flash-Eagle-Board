@@ -8,8 +8,8 @@
     </a>
   </p>
 </div>
+
 # Guide to Flash Eagle Board :)
-#### Made with 🫶🏻 by Basil
 
 ## 1. Steps to flash Jetson Linux 32.7.5 (latest) (Jetpack 4.6.5 DP) on EagleBoard EMMC:
 
@@ -190,3 +190,8 @@ Reboot the system again.
 ---
 
 Congrats! Your Eagle Board is now as good as new :D
+**Made with 🫶🏻 by Basil**
+
+Check out my medium guide here: [medium.com](https://medium.com/@basilshaji32/how-to-flash-nvidia-eagle-board-4e2e0bf98015)
+
+You can go through my notion website: [notion.com](https://basilshaji.notion.site/Guide-to-Flash-Eagle-Board-b7b58ca96d084ac7844249d3d7fbaa15?pvs=4)
